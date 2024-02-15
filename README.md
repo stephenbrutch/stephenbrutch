@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 Look through the sections below:
 
 ## 1. Repository Summaries
