@@ -11,6 +11,8 @@ Look through the sections below:
 4. For machine learning projects that use Scikit-Learn and TensorFlow click [got to repository](https://github.com/stephenbrutch/Machine-Learning-Projects)
    
 5. For Navigation and Controls related work click [go to repository](https://github.com/stephenbrutch/GNC-HWS-Projects)
+
+6. For related research papers used in reference to my graduate research click [go to repository](https://github.com/stephenbrutch/research-papers)
    
 ## 2. Publications
 Andrei, C., Stephen, B., & Hever, M. (2023, April). Performance Analysis of UAV Control Architectures Over Urban Environments with Degraded GNSS Accessibility. In 2023 IEEE/ION Position, Location and Navigation Symposium (PLANS) (pp. 67-74). IEEE.
