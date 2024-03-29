@@ -6,7 +6,7 @@ Look through the sections below:
    
 2. For more specific notes on my Graduate Research with the Advanced Dynamics and Controls Laboratory at ERAU related to deep learning approaches towards human pilot behavior and pilot parameter estimation click [go to repository](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks) . In this page you will see my various notes and links to my Google Colab code --> need to update the pdfs and the code files
    
-3. For beginner friendly Python machine learning tutorial codes click [go to repository](https://github.com/stephenbrutch/Python-Machine-Learning-Codes)
+3. For beginner friendly Python machine learning tutorial codes that I used from coding tutorial online to learn, click [go to repository](https://github.com/stephenbrutch/Python-Machine-Learning-Codes). In this repo I went over the basics of Python (NumPy, Pandas, Matplotlib, Scit-kit Learn), Tensorflow (regression, classification), Pytorch (classificication, computer vision, building custom datasets for multiclass classification) 
    
 4. For machine learning projects that use Scikit-Learn and TensorFlow click [got to repository](https://github.com/stephenbrutch/Machine-Learning-Projects)
    
