@@ -4,7 +4,7 @@ Look through the sections below:
 ## 1. Repository Summaries
 1. For general notes on physics informed/inverse physics informed neural networks (PINNS/IPINNS) click [go to repository](https://github.com/stephenbrutch/PINNS-and-IPINNS)
    
-2. For more specific notes on my Graduate Research with the Advanced Dynamics and Controls Laboratory at ERAU related to deep learning approaches towards human pilot behavior and pilot parameter estimation click [go to repository](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks) . In this page you will see my various notes and links to my Google Colab code --> need to update the pdfs and the code files
+2. For more specific notes/codes on my Graduate Research with the Advanced Dynamics and Controls Laboratory at ERAU related to deep learning approaches towards physics informed human pilot behavior and physics informed pilot parameter estimation click [go to repository](https://github.com/stephenbrutch/Pilot-Models-for-Physics-Informed-Neural-Networks) .
    
 3. For Python machine learning codes that I used from coding tutorial online to learn, click [go to repository](https://github.com/stephenbrutch/Python-Machine-Learning-Codes).
    - In this repo I went over the basics of Python (NumPy, Pandas, Matplotlib, Scit-kit Learn), Tensorflow (regression, classification), Pytorch (classificication, computer vision, building custom datasets/datalaoders for multiclass classification) 
