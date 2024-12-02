@@ -16,6 +16,8 @@ Look through the sections below:
 6. For Navigation and Controls related work click [go to repository](https://github.com/stephenbrutch/GNC-HWS-Projects)
 
 7. For related research papers used in reference to my graduate research click [go to repository](https://github.com/stephenbrutch/research-papers)
+
+8. For final clean codes/documentation on all of my thesis works click [go to repository](https://github.com/stephenbrutch/Thesis-codes-and-documentation)
    
 ## 2. Publications
 Andrei, C., Stephen, B., & Hever, M. (2023, April). Performance Analysis of UAV Control Architectures Over Urban Environments with Degraded GNSS Accessibility. In 2023 IEEE/ION Position, Location and Navigation Symposium (PLANS) (pp. 67-74). IEEE.
