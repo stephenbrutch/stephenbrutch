@@ -20,6 +20,8 @@ Look through the sections below:
 ## 2. Thesis Documentation and Codes
 
 1. FOR FUTURE ADCL STUDENTS: For final clean codes/documentation on all of my thesis works click [go to repository](https://github.com/stephenbrutch/Thesis-codes-and-documentation)
+
+2. Note: This repo is private so email me if you need access.
    
 ## 3. Publications
 Andrei, C., Stephen, B., & Hever, M. (2023, April). Performance Analysis of UAV Control Architectures Over Urban Environments with Degraded GNSS Accessibility. In 2023 IEEE/ION Position, Location and Navigation Symposium (PLANS) (pp. 67-74). IEEE.
