@@ -28,3 +28,9 @@ Andrei, C., Stephen, B., & Hever, M. (2023, April). Performance Analysis of UAV 
 
 Brutch, S., & Moncayo, H. (2024). Machine Learning Approach to Estimation of Human-Pilot Model Parameters. In AIAA SCITECH 2024 Forum (p. 1200).
 
+Brutch, Stephen A. "Physics-Informed Deep Learning for Pilot Parameter Estimation and Pilot-Induced Oscillation Characterization." (2024).
+
+Brutch, Stephen, Rocio Jado-Puente, and Hever Moncayo. "A Physics-Informed Deep Learning Model for Estimating Human Pilot Behavior and Mitigating Adverse Interactions." AIAA SCITECH 2025 Forum. 2025.
+
+Jado-Puente, Rocio, Stephen Brutch, and Hever Moncayo. "Performance Analysis of Machine Learning Algorithms to Human-Pilot-Model Parameter Estimation." AIAA SCITECH 2025 Forum. 2025.
+
